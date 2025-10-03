@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family:emoji;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: "NHaasGroteskDSPro-65Md";
+}
+
+code {
+  font-family:emoji,
+    monospace;
+}
+#carousel{
+  max-height: 500px;
+}
